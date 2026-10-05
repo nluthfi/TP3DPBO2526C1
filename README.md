@@ -5,7 +5,7 @@ Saya Luthfi Naufal Alfareza dengan NIM 2511437 mengerjakan Tugas Praktikum 3 dal
 
 ---
 
-## 📁 Struktur Direktori Proyek
+## Struktur Direktori Proyek
 ```
 TP3DPBO2526C1/
 ├── CPP
